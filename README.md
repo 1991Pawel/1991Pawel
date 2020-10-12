@@ -1,13 +1,11 @@
+<img src="https://rawgit.com/gorangajic/react-icons/master/react-icons.svg" width="60" alt="React Icons">
+
 ### Hi there, I'm Pawel 👋
 Junior Frontend developer
 
 <p><a href="https://pawdev.netlify.app/">🌐 Check out my Portfolio</a></p>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lesnik.pawel1991@gmail.com)](mailto:lesnik.pawel1991@gmail.com)
-
-
-
-<img src="https://rawgit.com/gorangajic/react-icons/master/react-icons.svg" width="120" alt="React Icons">
 
 ## 🔧 Technologies
 
