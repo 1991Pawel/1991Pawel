@@ -2,7 +2,6 @@
 Junior Frontend developer
 
 <p><a href="pawdev.netlify.app">🌐 Check out my Portfolio</a></p>
-</br>
 
 ## ➡️ Contact
 
