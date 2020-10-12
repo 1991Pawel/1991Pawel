@@ -2,6 +2,8 @@
 Junior Frontend developer
 
 <p><a href="pawdev.netlify.app">🌐 Check out my Portfolio</a></p>
+</br>
+
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lesnik.pawel1991@gmail.com)](mailto:lesnik.pawel1991@gmail.com)
 
 
