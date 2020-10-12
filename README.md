@@ -5,6 +5,7 @@ Junior Frontend developer
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lesnik.pawel1991@gmail.com)](mailto:lesnik.pawel1991@gmail.com)
 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Freact-icons%2Freact-icons&psig=AOvVaw18IwegqTdWfE4Jr3KJIzSA&ust=1602587940005000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCDwbj3ruwCFQAAAAAdAAAAABAD">
 
 
 
