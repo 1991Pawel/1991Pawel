@@ -1,5 +1,5 @@
-### Hi there, I'm Pawel 👋 <img src="https://rawgit.com/gorangajic/react-icons/master/react-icons.svg" width="30" alt="React Icons">
-Junior Frontend developer
+### Hi there, I'm Pawel 👋 
+Junior Frontend developer <img src="https://rawgit.com/gorangajic/react-icons/master/react-icons.svg" width="30" alt="React Icons">
 
 <p><a href="https://pawdev.netlify.app/">🌐 Check out my Portfolio</a></p>
 
