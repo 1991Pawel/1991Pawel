@@ -1,5 +1,5 @@
 ### Hi there, I'm Pawel 👋 
-<img src="https://rawgit.com/gorangajic/react-icons/master/react-icons.svg" width="15" alt="React Icons"> unior Frontend developer 
+<img src="https://rawgit.com/gorangajic/react-icons/master/react-icons.svg" width="20" alt="React Icons">  Junior Frontend developer 
 </br>
 
 
