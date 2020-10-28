@@ -3,7 +3,7 @@
 </br>
 
 
-<p><a href="https://www.pawdev.pl/">🌐 Check out my Portfolio</a></p>
+<p><a href="https://www.pavdev.pl/">🌐 Check out my Portfolio</a></p>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lesnik.pawel1991@gmail.com)](mailto:lesnik.pawel1991@gmail.com)
 
