@@ -19,6 +19,6 @@
 
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/olafsulich/)
 [![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux&logoColor=pink)](https://github.com/olafsulich/)
-[![Gatsby](https://img.shields.io/badge/-Gatsby-purple?style=flat-square&logo=Gatsby&logoColor=white)](https://github.com/olafsulich/)
+
 
 
