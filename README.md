@@ -19,5 +19,4 @@
 
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/1991Pawel/1991Pawel/)
 [![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux&logoColor=pink)](https://github.com/1991Pawel/1991Pawel/)
-[![Next(https://camo.githubusercontent.com/1250e75e1e03621610d2ed9a1fb08ada2896a168ef4987712ec36a3464522b36/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6578742e6a732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4e6578742e6a73266c6f676f436f6c6f723d7768697465))](https://github.com/1991Pawel/1991Pawel/)
 
