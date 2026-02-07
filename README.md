@@ -36,4 +36,5 @@ Frontend developer focused on building modern, performant web applications using
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lesnik.pawel1991@gmail.com)](mailto:lesnik.pawel1991@gmail.com)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YOUR_LINKEDIN/)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pawe%C5%82-le%C5%9Bnik-95081b210/)](https://www.linkedin.com/in/pawe%C5%82-le%C5%9Bnik-95081b210/)
+
