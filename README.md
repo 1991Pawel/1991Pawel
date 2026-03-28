@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 Frontend developer focused on building modern, performant web applications using React ecosystem.
-
+🌐 Portfolio: [View Portfolio](https://portfoli0-3d.netlify.app/)
 ---
 
 ### 🛠️ Technologies & Tools
